@@ -17,6 +17,8 @@ Script to create VCF for devices mobile android e ios from file with telephone n
 
 Requisites: Python version 3
 
+pip install colored
+
 Example: python3 Generate_Telephone_VCP_ANDROID_IOS.py -android ExampleTelephones.txt 
 
 <img width="370" alt="Captura de pantalla 2021-03-10 a las 17 04 11" src="https://user-images.githubusercontent.com/80391199/110659213-a95cc580-81c2-11eb-9d2b-270610c4e60a.png">
