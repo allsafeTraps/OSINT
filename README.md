@@ -1,6 +1,6 @@
 # Osint - APIS
 
-Script with functions to query the securitytrails API
+#SecurityTrailsApi_v1.py
 
 Requisites: Python version 3
 
