@@ -1,6 +1,4 @@
-# Osint - APIS
-
-# SecurityTrailsApi_v1.py
+# SecurityTrailsApi
 
 Requisites: Python version 3
 
