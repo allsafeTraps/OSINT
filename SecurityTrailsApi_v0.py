@@ -4,7 +4,7 @@ import requests
 import argparse
 from colored import fg, bg
 
-API_KEY = "YOR API KEY"
+API_KEY = "YOUR API KEY"
 URL_API_SECURITY_TRAILS = "https://api.securitytrails.com/v1/"
 HEADERS_API_SECURITY_TRAILS = {"Accept": "application/json", "user-agent": "trapsteo_milongas", "apikey": API_KEY}
 COLOR = fg('#c0c0c0') + bg('#00005f')
