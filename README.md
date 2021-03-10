@@ -1,10 +1,10 @@
 # Osint - APIS
 
-#SecurityTrailsApi_v1.py
+# SecurityTrailsApi_v1.py
 
 Requisites: Python version 3
 
-Installation: pip install -r requirements.tx
+Installation: pip install -r requirements.txt
 
 Example: python3 SecurityTrailsApi.py -h
 
